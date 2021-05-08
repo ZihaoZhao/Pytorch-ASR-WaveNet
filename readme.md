@@ -3,7 +3,9 @@
 A Pytorch implementation of WaveNet ASR (Automatic Speech Recognition)
 
 Reference:
+
 https://github.com/kingstarcraft/speech-to-text-wavenet2
+
 https://github.com/buriburisuri/speech-to-text-wavenet
 # Install
 
