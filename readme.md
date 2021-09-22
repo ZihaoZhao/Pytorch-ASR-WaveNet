@@ -16,7 +16,7 @@ conda install pytorch=1.4.0
 # Run
 
 ```
-python train.py --exp test 
+python train.py --exp example 
 ```
 
 # Note
